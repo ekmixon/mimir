@@ -33,7 +33,7 @@ Grafana Mimir is an actively developed project and we want to encourage the intr
 Currently experimental features are:
 
 - Ruler: tenant federation.
-- Distributor: metrics relabeling.
+- Distributor: metrics relabeling, OTLP ingestion path.
 - Purger: tenant deletion API.
 - Exemplar storage
   - `-ingester.max-global-exemplars-per-user`

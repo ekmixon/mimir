@@ -2,6 +2,7 @@
 
 ## Mimir - main / unreleased
 
+* [Feature] EXPERIMENTAL: OpenTelemetry Metrics ingestion path on `/api/v1/push/otlp/v1/metrics`. #695
 
 ## 2.0.0-rc.0
 
